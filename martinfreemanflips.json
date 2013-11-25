@@ -2,7 +2,6 @@
    "version":1,
    "title":"Martin Freeman flips",
    "identifier":"de.florianletsch.martinfreemanflips",
-   "base":"http://github.com/florianletsch/gifstreams",
    "license":"All images belong to their respective license holders",
    "files":[
       {
